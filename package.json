@@ -1,0 +1,17 @@
+{
+  "name": "hudl-auto-test",
+  "version": "0.0.0",
+  "description": "HudlAutoTest",
+  "main": "Login-Success.js",
+  "author": {
+    "name": "",
+    "dependencies": {
+      "mocha": "^10.2.0",
+      "selenium-webdriver": "^4.9.0",
+     "scripts": {
+  	 "test": "mocha"
+
+  			}
+  		}
+  	}
+ }	
