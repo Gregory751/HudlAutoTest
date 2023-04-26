@@ -13,3 +13,4 @@ Source Control Visualizer= Attlasian Sourcetree (GIT)
 <br></br>
 Repository = Github
 <br></br>
+CI/CD should be managed through Jenkins, Azuredevops, AWS etc.
