@@ -3,9 +3,10 @@ Hudl Tech Project
 <br></br>
 IDE = Eclipse
 <br></br>
-Framework = Selenium-Webdriver
+WebFramework = Selenium-Webdriver
 <br></br>
-Language = Jscript (Mocha)
+TestFramework = Node Js, Mocha
+Language = Javascript
 <br></br>
 Source Control Visualizer= Attlasian Sourcetree (GIT)
 <br></br>
