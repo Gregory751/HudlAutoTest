@@ -14,3 +14,5 @@ Source Control Visualizer= Attlasian Sourcetree (GIT)
 Repository = Github
 <br></br>
 CI/CD should be managed through Jenkins, Azuredevops, AWS etc.
+<br></br>
+Smoke-Sanity-Check files need to be place in root directory in folder Smoke-Sanity-Check
