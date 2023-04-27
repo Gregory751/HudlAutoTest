@@ -1,17 +1,20 @@
 {
   "name": "hudl-auto-test",
   "version": "0.0.0",
-  "description": "HudlAutoTest",
+  "description": "HudlAutoTest1",
   "main": "Login-Success.js",
-  "author": {
-    "name": "",
-    "dependencies": {
-      "mocha": "^10.2.0",
-      "selenium-webdriver": "^4.9.0",
-     "scripts": {
-  	 "test": "mocha"
-
-  			}
-  		}
-  	}
- }	
+  "author": "",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.9.0"
+  },
+  "directories": {
+    "test": "Smoke-Sanity-Check"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "license": "ISC"
+}

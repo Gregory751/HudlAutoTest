@@ -5,5 +5,5 @@
  * @author spin7
  *
  */
-module HudlAutoTest {
+module HudlAutoTest1 {
 }
